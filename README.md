@@ -8,4 +8,5 @@ texto editado no github
 🤨😏😕🚘
 
 nova linha local...🔌🕰🇦🇺🇦🇷
+edição na branch bugtracking
 
