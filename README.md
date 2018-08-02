@@ -7,3 +7,5 @@ texto editado no github
 
 🤨😏😕🚘
 
+nova linha local...🔌🕰🇦🇺🇦🇷
+
